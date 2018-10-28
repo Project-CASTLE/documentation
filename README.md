@@ -1,5 +1,14 @@
 # CASTLE's Project Documentation
 
+**CASTLE** is **C**ontainerized **A**nsible **S**oftware and **T**ools **L**earning **E**xperience
+
+It's actually a Docker Stack with:
+* ElasticSearch / Logstash / Kibana / Filebeat
+* Vault
+* Gitlab CE
+* Mattermost
+* Ansible
+
 Tested on Ubuntu:
 
 ```shell
